@@ -1,5 +1,7 @@
 package com.modules.moduleone;
 
-public class ModuleOneTask {
+import com.framework.core.task.Task;
+
+public class ModuleOneTask extends Task{
 
 }

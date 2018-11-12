@@ -1,15 +1,5 @@
-/* 
- *  Copyright Crisplant  (C).
- *  All rights reserved.
- * 
- *  No part of this program may be copied, used or delivered
- *  to anyone without the express prior written consent of 
- *  Crisplant.
- * 
- * 
- */
 
-package com.framework.core.task;
+package com.framework.core.proxy;
 
 /*--- Imports -------------------------------------------------------------*/
 
